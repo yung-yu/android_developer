@@ -1,17 +1,17 @@
-#在Mac上安裝adb
-##裝完Android Studio後,sdk預設路徑
+# 在Mac上安裝adb
+## 裝完Android Studio後,sdk預設路徑
 ```
 ~/Library/Android/sdk/platform-tools
 ```
-##使用cammad建立
+## 使用cammad建立
 ```
 echo 'export PATH=$PATH:~/Library/Android/sdk/platform-tools/' >> ~/.bash_profile
 ```
-##然後重開terminal或者使用cammad
+## 然後重開terminal或者使用cammad
 ```
 source ~/.bash_profile
 ```
-##如果有使用on-my-zsh會有重開後,出現問題
+## 如果有使用on-my-zsh會有重開後,出現問題
 ```
 zsh: command not found adb:adb
 ``` 
@@ -26,22 +26,26 @@ zsh: command not found adb:adb
 > source ~/.bash_profile
 > ```
 
-##依照步驟完成後重開就正常了
+## 依照步驟完成後重開就正常了
 
-環境 windows 7
-設定環境變數
+# 環境 windows 7
+## 設定環境變數
+```
 andorid sdk cache path
-資料夾 :.android 
+```
+## 資料夾 :.android 
+```
 ANDROID_SDK_HOME : path
-
-Gradle cache path
-資料夾 :.gradle
+```
+## Gradle cache path
+## 資料夾 :.gradle
+```
 GRADLE_USER_HOME
-
 android studio cache path
-
-資料夾: .AndroidStudio
-
+```
+## 資料夾: .AndroidStudio
+```
 安裝路徑\Android stuido\bin\idea.properties
 idea.config.path=D:/.AndroidStudio/config
+```
 idea.system.path=D:/.AndroidStudio/system
