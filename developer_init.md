@@ -28,3 +28,20 @@ zsh: command not found adb:adb
 
 ##依照步驟完成後重開就正常了
 
+環境 windows 7
+設定環境變數
+andorid sdk cache path
+資料夾 :.android 
+ANDROID_SDK_HOME : path
+
+Gradle cache path
+資料夾 :.gradle
+GRADLE_USER_HOME
+
+android studio cache path
+
+資料夾: .AndroidStudio
+
+安裝路徑\Android stuido\bin\idea.properties
+idea.config.path=D:/.AndroidStudio/config
+idea.system.path=D:/.AndroidStudio/system
