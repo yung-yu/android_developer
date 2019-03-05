@@ -36,14 +36,12 @@ zsh: command not found adb:adb
 加入環境變數
 ANDROID_SDK_HOME : sdk path
 ```
-
-## Gradle cache path
 ## .gradle
 ```
 加入環境變數
 GRADLE_USER_HOME = gradle  cache path
 ```
-## 資料夾: .AndroidStudio
+## .AndroidStudio
 ```
 安裝路徑\Android stuido\bin\idea.properties
 idea.config.path=D:/.AndroidStudio/config
