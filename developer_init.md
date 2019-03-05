@@ -31,13 +31,14 @@ zsh: command not found adb:adb
 # 環境 windows 7
 ## 設定環境變數
 
-## 資料夾 :.android 
+## .android 
 ```
+加入環境變數
 ANDROID_SDK_HOME : sdk path
 ```
 
 ## Gradle cache path
-## 資料夾 :.gradle
+## .gradle
 ```
 加入環境變數
 GRADLE_USER_HOME = gradle  cache path
