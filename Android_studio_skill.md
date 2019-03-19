@@ -3,3 +3,7 @@
 
 1. Live template : 快捷產生code
 2. file and code template : 快速產生code  file
+
+# 快速多選修改
+
+1. Add Select for Next Ocurrence
