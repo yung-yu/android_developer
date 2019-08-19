@@ -47,6 +47,5 @@ GRADLE_USER_HOME = gradle  cache path
 idea.config.path=D:/.AndroidStudio/config
 idea.system.path=D:/.AndroidStudio/system
 ```
-## .Android 3rd 網站
-[The Android Aresenal](https://android-arsenal.com)
+
 
