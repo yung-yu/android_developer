@@ -9,6 +9,6 @@
 1. Add Select for Next Ocurrence
 
 
-#Android studio xml format 錯亂
+# Android studio xml format 錯亂
 
 1.setting -> Editor -> Code style -> XML -> Set From -> Predefined style -> android  -> press ok
