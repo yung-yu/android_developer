@@ -8,3 +8,6 @@
 
 ## News
 [Android blog](https://android-developers.googleblog.com/)
+
+## Share
+[簡書](https://www.jianshu.com/c/5139d555c94d)
