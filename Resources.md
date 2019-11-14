@@ -11,3 +11,4 @@
 
 ## Share
 [簡書](https://www.jianshu.com/c/5139d555c94d)
+[ios-cheat-sheet-for-android-developers](https://jakubpchmiel.com/ios-cheat-sheet-for-android-developers/)
