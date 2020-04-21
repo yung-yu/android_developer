@@ -48,4 +48,7 @@ idea.config.path=D:/.AndroidStudio/config
 idea.system.path=D:/.AndroidStudio/system
 ```
 
+## .MAC投影
+
+https://github.com/Genymobile/scrcpy
 
